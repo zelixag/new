@@ -1,6 +1,1 @@
-export default () => {
-
-  console.log('hello deno')
-
-}
-
+ console.log('hello deno')
